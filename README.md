@@ -1,6 +1,6 @@
 # nfl-playing-surface-data-analysis
 
-Analysis of three datasets related to the effects that playing on synthetic turf versus natural turf can have on player movements and the factors that may contribute to lower extremity injuries. 
+Analysis of three datasets related to the effects that playing on synthetic turf versus natural turf can have on player movements and the factors that may contribute to lower extremity injuries from Kaggle: https://www.kaggle.com/c/nfl-playing-surface-analytics
 
 The data provided for analysis are 250 complete player in-game histories from two subsequent NFL regular seasons. Three different files in .csv format are provided, documenting injuries, player-plays, and player movement during plays:
 
