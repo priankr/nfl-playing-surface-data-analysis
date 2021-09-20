@@ -9,3 +9,7 @@ The data provided for analysis are 250 complete player in-game histories from tw
 - Play List: – The play list file contains the details for the 267,005 player-plays that make up the dataset. Each player is indexed by PlayerKey, GameID, and PlayKey fields. Details about the game and play include the player’s assigned roster position, stadium type, field type, weather, play type, position for the play, and position group.
 
 - Player Track Data: player level data that describes the location, orientation, speed, and direction of each player during a play recorded at 10 Hz (i.e. 10 observations recorded per second).
+
+#### See this analysis on Kaggle:
+https://www.kaggle.com/priankravichandar/nfl-playing-surface-data-analysis
+
